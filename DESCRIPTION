@@ -1,0 +1,21 @@
+Package: miprd
+Title: Construcción de Matrices Insumo-Producto desde Cuadros de Oferta y Utilización
+Version: 0.1.0
+Authors@R: person("Briam Eduardo", "Guerrero Batista", email = "briam.guerrero@bancentral.gov.do", role = c("aut", "cre"))
+Description: Convierte los Cuadros de Oferta y Utilización (COU) en Matrices
+    Insumo-Producto (MIP) mediante el Modelo D y el Modelo B. Genera un archivo
+    Excel con todas las matrices intermedias y finales etiquetadas.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    readxl,
+    dplyr,
+    tidyr,
+    tibble,
+    openxlsx,
+    stringr,
+    magrittr,
+    rlang,
+    stats
