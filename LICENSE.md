@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2025 Banco Central de la República Dominicana (BCRD), 
+Copyright (c) 2025 Briam E. Guerrero-Batista, Banco Central de la República Dominicana (BCRD), 
 Departamento de Cuentas Nacionales y Estadísticas Económicas.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
